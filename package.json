@@ -1,7 +1,7 @@
 {
-  "name": "arion-discord-bot",
+  "name": "discord-bot-boilerplate",
   "version": "1.0.0",
-  "description": "Discord bot for Arion Servers.",
+  "description": "Boilerplate Discord Bot.",
   "main": "bot.js",
   "author": "Threebow",
   "dependencies": {
