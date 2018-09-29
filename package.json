@@ -1,0 +1,12 @@
+{
+  "name": "arion-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for Arion Servers.",
+  "main": "bot.js",
+  "author": "Threebow",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "mysql2": "^1.5.3",
+    "sequelize": "^4.37.6"
+  }
+}

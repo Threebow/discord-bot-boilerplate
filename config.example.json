@@ -1,0 +1,13 @@
+{
+	"database": {
+		"database": "",
+		"user": "",
+		"host": "",
+		"password": "",
+		"dialect": "mysql"
+	},
+	"bot": {
+		"token": "",
+		"prefix": "!"
+	}
+}
