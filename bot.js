@@ -32,7 +32,7 @@ const bot = new Discord.Client({disableEveryone: true});
 	Ready event
 ---------------------------------------------------------------------------*/
 bot.on("ready", () => {
-	bot.generateInvite(["ADMINISTRATOR"]).then(console.log);
+	bot.generateInvite({permissions: ["ADMINISTRATOR"]}).then(console.log);
 	console.log(`Logged in as ${bot.user.tag}`);
 });
 
